@@ -1,4 +1,3 @@
-// Enhanced course data with categories and ratings
 const defaultCourses = [
   {
     id: 1,
